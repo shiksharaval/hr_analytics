@@ -1,23 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 17:40:36 2017
 
-@author: Shabnam Imtiaz
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 17:20:49 2017
-
-@author: Shriya Prasad
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Dec  5 09:33:00 2017
-
-@author: Shriya Prasad
-"""
 
 import pandas as pd
 from sklearn import metrics
